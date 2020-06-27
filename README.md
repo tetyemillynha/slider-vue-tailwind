@@ -1,5 +1,5 @@
 # slider-vue-tailwind
-<h2><strong>A simple slider usigin VueJs and Tailwind CSS</strong><h2>
+<h2><strong>A simple slider usigin VueJs and Tailwind CSS</strong></h2>
 
 <strong>How to clone and start this project:</strong>
 
