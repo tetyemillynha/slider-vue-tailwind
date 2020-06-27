@@ -1,24 +1,16 @@
-# vue-slider
+# slider-vue-tailwind
+<h2><strong>A simple slider using VueJs and Tailwind CSS</strong></h2>
 
-## Project setup
-```
-npm install
-```
+<strong>How to clone and start this project:</strong>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1º Clone the project:
+- git clone https://github.com/tetyemillynha/slider-vue-tailwind.git
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2º Open terminal, go to folder "vue-slider":
+- cd vue-slider
 
-### Lints and fixes files
-```
-npm run lint
-```
+3º run the comand:
+- npm run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4º Open the example in the browser using: 
+- localhost:8080
