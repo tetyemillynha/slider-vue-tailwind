@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
+
+.row{
+    @apply flex flex-row;
+}
+
+.btn-gray{
+    @apply bg-gray-300 text-gray-800 font-bold py-2 px-4 border-gray-400 shadow-sm;
+}
+.btn-gray:focus{
+    @apply outline-none;
+}
+.btn-gray:hover{
+    @apply bg-gray-500 text-gray-100;
+}
+
+.btn-prev{
+    @apply rounded-l border-r-2;
+}
+.btn-next{
+    @apply rounded-r border-l-2;
+}
+.title-xl{
+    @apply font-mono font-semibold text-lg text-3xl;
+}
 @tailwind utilities;
