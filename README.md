@@ -1,6 +1,7 @@
 # slider-vue-tailwind
 <img src="https://tailwindui.com/img/tailwindui-logo.svg" alt="Tailwind">
-<img heigh="120px" src="https://vuejs.org/images/logo.png" alt="VueJs"
+<img height="40" src="https://vuejs.org/images/logo.png" alt="VueJs"
+
 <h2><strong>A simple slider using VueJs and Tailwind CSS</strong></h2>
 
 <strong>How to clone and start this project:</strong>
