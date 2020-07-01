@@ -18,8 +18,8 @@
 - localhost:8080
 
 
-Read the documentations in:
-https://vuejs.org/v2/guide/
+Read the documentations in:<br>
+https://vuejs.org/v2/guide/ <br>
 https://tailwindcss.com/docs/installation
 
 
